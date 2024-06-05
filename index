@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Unhinged Gaming</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="wrapper-div">
+    <div id="headerbanner-div">
+        <img src="images/header.png" alt="website's Picture">
+    </div>
+    <div id="main1-div" class="clearfix">
+        <div id="logo-div">
+            <a href="" style="color: black" target="_blank"></a>
+                <img src="images/head.png" alt="McDonald's Logo">
+                Eumie's Guide to Unhinged Gaming
+            </a>
+        </div>
+        <div id="nav-div">
+            <a href="#">Home</a>
+            <a href="#">Tips</a>
+            <a href="#">Guides</a>
+            <a href="#">Support</a>
+            <a href="#">Recommendations</a>
+            <a href="#">About Us</a>
+        </div>
+    </div>
+    <div class="sidenav">
+        <a href="#">Home</a>
+        <a href="#">Tips</a>
+        <a href="#">Guides</a>
+        <a href="#">Support</a>
+        <a href="#">Recommendations</a>
+        <a href="#">About Us</a>
+      </div>
+  
+	
+    <div id="main-content-div">
+            Welcome to Eumie's Unhinged Gaming Guide! This website is dedicated to providing you with tips and tricks to help you become a unhinged gamer. Whether you're a casual player or a hardcore gamer, we've got you covered. Our team of experts has put together a collection of guides that will help you improve your skills and take your gaming to the next level. So what are you waiting for? Start exploring our site and become the best troll you can be!
+    </div>
+        <div id="footer-div">
+            <img src="images/head.png" alt="website's Logo">
+            contact us: 09123456789 email: eumie.capapas@gmail.com
+
+    </div>
+</div>
+</body>
+</html>
